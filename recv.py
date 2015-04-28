@@ -1,3 +1,5 @@
+####based on http://pygments.org/demo/184796/
+
 from quick2wire.gpio import pi_header_1, In, Out, Rising, Falling, Both
 from os import system
 import threading
